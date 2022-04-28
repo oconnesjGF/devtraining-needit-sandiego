@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category">
+    <sys_properties_category action="INSERT_OR_UPDATE">
+        <name>NeedIt Properties</name>
+        <sys_class_name>sys_properties_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-04-28 14:09:02</sys_created_on>
+        <sys_id>d487650387c34110e57c206f8bbb3526</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_properties_category_d487650387c34110e57c206f8bbb3526</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-04-28 14:09:02</sys_updated_on>
+        <title><![CDATA[<p><em><strong><img style="align: baseline;" title="test image " src="sys_attachment.do?sys_id&#61;0338a58f87834110e57c206f8bbb35d7" alt="test iamge" width="646" height="431" align="bottom" border="" hspace="" vspace="" /></strong></em></p>
+<p><em><strong>This is a test.</strong> </em></p>
+<p> </p>]]></title>
+    </sys_properties_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=d487650387c34110e57c206f8bbb3526"/>
+</record_update>
